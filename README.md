@@ -1,0 +1,1 @@
+harmonik ortalama hesaplar.
