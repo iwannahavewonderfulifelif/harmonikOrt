@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java101.iml" filepath="$PROJECT_DIR$/java101.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/studentGradeSystem.iml" filepath="$PROJECT_DIR$/studentGradeSystem.iml" />
+>>>>>>> 1071d5f (Added my project)
     </modules>
   </component>
 </project>
